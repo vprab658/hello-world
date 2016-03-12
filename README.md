@@ -2,3 +2,4 @@ Hello Git Hub, this is my first feature branch in my git learning tutorial. I am
 
 Thanks for your support.
 
+Hi, this changes were merged from feature.
